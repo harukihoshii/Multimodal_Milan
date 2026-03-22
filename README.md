@@ -10,7 +10,7 @@ Tested:
 ## Top 2 Routes by Walk + Transit
 Shortest path by duration using transit at 8am.
 
-![Figure 1: Routes](/img/det_routes_comparison.png)
+![Figure 1: Routes](/img/det_route_comparison.png)
 
 ## Change in Trip Duration During the Day
 For the same origin–destination pair as above, plotting how long it takes to travel at different times during the day.
@@ -21,12 +21,6 @@ For the same origin–destination pair as above, plotting how long it takes to t
 Mapping the count of stations reachable within 30 minutes.
 
 ![Figure 3: Tube station accessibility](/img/tube_accessibility.png)
-
-## Data Sources
-
-https://download.geofabrik.de/
-
-https://www.transit.land/feeds/f-u0nd-comunedimilano
 
 ## Data Sources
 
